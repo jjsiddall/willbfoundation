@@ -14,7 +14,7 @@ ul#contact-info .icon {font-size:20px;float:left;line-height:25px;margin-right:1
 
 ul#contact-info .field {font-weight:bold;}
 
-ul#contact-info {list-style:none;}
+ul#contact-info {list-style:none;margin-left: 0px;}
 
 
 /* Blog */
@@ -184,7 +184,7 @@ h2{font-weight: normal; font-style: normal; ;font-family: Cuprum;}
 
 #divHeaderLine2{font-family: Cuprum; font-size: 24px; line-height: 37px; margin-top: 11px; color: rgb(110, 110, 110); letter-spacing: 1px; }
 
-#divHeaderLine3{margin-top: 37px; line-height: 21px; }
+#divHeaderLine3{margin-top: 11px; line-height: 21px; }
 
 a.btn, a.btn-large, a.btn-small, a.btn-mini {color:#333}
 
