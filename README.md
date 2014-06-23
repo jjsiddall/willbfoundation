@@ -1,4 +1,4 @@
-jjsiddall.github.io
+Will B. Foundation
 ===================
 
-For showing details of the "Will B Foundation"
+A site for the Will B. Foundation and their events
