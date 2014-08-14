@@ -260,10 +260,15 @@ h6,.page-content h6 a{font-weight: normal; font-style: normal; ;font-family: Cup
 	width: 105px;
 }
 .paypal-buytickets{
-    margin-left: 3px;
-    margin-top: -13px;
+    margin-left: 27px;
+    margin-top: -4px;
+    padding-bottom: 10px;
+    /*height: 35px;*/
     /* width: 15px; */
 }
 .paypal-form{
 	margin-bottom: -31px;
+}
+.paypal-buy-tickets-label{
+	margin-top: -10px;
 }
