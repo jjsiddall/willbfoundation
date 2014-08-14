@@ -184,7 +184,7 @@ h2{font-weight: normal; font-style: normal; ;font-family: Cuprum;}
 
 #divHeaderLine2{font-family: Cuprum; font-size: 24px; line-height: 37px; /* margin-top: 0px; */ color: rgb(110, 110, 110); letter-spacing: 1px; }
 
-#divHeaderLine3{/* margin-top: 0px; */ line-height: 21px; }
+#divHeaderLine3{margin-top: 10px; line-height: 21px; }
 
 a.btn, a.btn-large, a.btn-small, a.btn-mini {color:#333}
 
@@ -232,7 +232,7 @@ h6,.page-content h6 a{font-weight: normal; font-style: normal; ;font-family: Cup
 
 .ddmenu {margin-top: 55px; margin-bottom: 0px;}
 
-.ddmenu.nav-pills li a{font-family: Cuprum; font-size: 17px; line-height: 17px; }
+.ddmenu.nav-pills li a{font-family: Cuprum; font-size: 17px; line-height: 17px; margin-top: 55px;}
 
 .ddmenu .dropdown-menu li a{line-height: 29px; }
 
@@ -241,9 +241,29 @@ h6,.page-content h6 a{font-weight: normal; font-style: normal; ;font-family: Cup
 	line-height: normal;
 }
 .headshot{
-	padding-top: 24px;
+	/* margin-top: -38px; */
 }
 .numberOfTickets{
-    width: 29px;
-	
+    width: 22px;
+    margin-left: 27px;
+}
+.paypal-donate {
+	font-family: Cuprum;
+	font-size: 17px;
+	line-height: 17px;
+	background-color: rgb(169, 0, 0);
+	color: rgb(255, 255, 255);
+	border: none;
+	border-radius: 7px;
+	margin-top: 55px;
+	height: 51px;
+	width: 105px;
+}
+.paypal-buytickets{
+    margin-left: 3px;
+    margin-top: -13px;
+    /* width: 15px; */
+}
+.paypal-form{
+	margin-bottom: -31px;
 }
